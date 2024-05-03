@@ -1,0 +1,14 @@
+{
+  "name": "cors-ejemplo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "five-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "five-server": "^0.3.3"
+  }
+}
